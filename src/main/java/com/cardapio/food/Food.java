@@ -23,4 +23,10 @@ public class Food {
 
     private Float price;
 
+    public Food(FoodRequestDTO data){
+        this.image = data.image();
+        this.title = data.title();
+        this.price = data.price();
+    }
+
 }
