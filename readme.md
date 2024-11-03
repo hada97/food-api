@@ -2,8 +2,6 @@
 
 ## 💻 Sobre o Projeto
 
-[Veja como ficou em Produção!]()
-
 ## ⚙️ Funcionalidades
 
 A API oferece as seguintes funcionalidades:
